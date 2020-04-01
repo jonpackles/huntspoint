@@ -1,0 +1,16 @@
+.section {
+    /* background-color: rgb(250, 247, 216);
+    background-image: url('https://payload.cargocollective.com/1/10/345838/5197297/livia-foldes-nature2-13_2000.jpg'); */
+    /* background-image: url('https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528_1280.jpg'); */
+    background-size: cover;
+}
+
+
+h1 {
+    color: white;
+    font-size: 200px;
+    margin:auto;
+}
+
+
+
